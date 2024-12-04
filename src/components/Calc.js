@@ -3,7 +3,7 @@ import React from 'react'
 const Calc = () => {
   return (
     <div>
-      <p>Hello lovesh</p>
+      <p>Hello lovesh bhai</p>
     </div>
   )
 }
